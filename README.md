@@ -54,8 +54,8 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 ---
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: *(adicione aqui o link)*  
-- 📧 Email: *(opcional)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/ocimar-schroeder-9a4920270/
+- 📧 Email: ocimarschroederjr@gmail.com
 
 ---
 
