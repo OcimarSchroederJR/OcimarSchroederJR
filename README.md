@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou Ocimar Schroeder Jr.
+# Olá, eu sou Ocimar Schroeder.
 
-🎯 **Engenheiro de Software em formação** com foco na **área de Dados**, apaixonado por transformar dados em informação e criar soluções eficientes através da tecnologia.
+**Engenheiro de Software em formação** com foco na **área de Dados**, apaixonado por transformar dados em informação e criar soluções eficientes através da tecnologia.
 
 Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, análise, automação e desenvolvimento backend**, sempre buscando boas práticas, performance e organização de código.
 
 ---
 
-## 📊 Área de Atuação Principal
+## Área de Atuação Principal
 
 - 🔹 Engenharia de Dados  
 - 🔹 Análise e tratamento de dados  
@@ -16,7 +16,7 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 
 ---
 
-## 💻 Tecnologias e Competências
+## Tecnologias e Competências
 
 ### 🔸 Dados & Backend
 - Python  
@@ -35,7 +35,7 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 
 ---
 
-## 🛠️ Ferramentas & Conceitos
+## Ferramentas & Conceitos
 - Git & GitHub  
 - Docker  
 - APIs REST  
@@ -45,7 +45,7 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 
 ---
 
-## 🚀 Em aprendizado contínuo
+## Em aprendizado contínuo
 - Engenharia de Dados em larga escala  
 - Cloud e Big Data  
 - Boas práticas de arquitetura de software  
@@ -53,7 +53,7 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 - 💼 LinkedIn: https://www.linkedin.com/in/ocimar-schroeder-9a4920270/
 - 📧 Email: ocimarschroederjr@gmail.com
 
