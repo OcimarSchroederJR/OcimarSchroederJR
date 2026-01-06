@@ -59,4 +59,4 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 
 ---
 
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na área de dados e software!*
+
