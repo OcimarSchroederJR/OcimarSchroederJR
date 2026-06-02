@@ -22,7 +22,9 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, anÃ
 - Python  
 - SQL  
 - Java  
-- Spring Boot  
+- Spring Boot
+- TypeScript
+- NestJS
 
 ### ðŸ”¸ Desenvolvimento
 - JavaScript  
