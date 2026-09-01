@@ -8,7 +8,8 @@ Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, an�
 
 ## Área de Atuação Principal
 
-- 🔹 Engenharia de Dados  
+- 🔹 Engenharia de Dados
+- 🔹 Machine Learning/Inteligência Artificial
 - 🔹 Análise e tratamento de dados  
 - 🔹 Pipelines de dados (ETL/ELT)  
 - 🔹 Integração entre sistemas e dados  
