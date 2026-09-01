@@ -2,7 +2,7 @@
 
 **Engenheiro de Software em formação** com foco na **área de Dados**, apaixonado por transformar dados em informação e criar soluções eficientes através da tecnologia.
 
-Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, análise, automação e desenvolvimento backend**, sempre buscando boas práticas, performance e organização de código.
+Atualmente, estudo e desenvolvo projetos que envolvem **engenharia de dados, análise, machine learning e desenvolvimento backend**, sempre buscando boas práticas, performance e organização de código.
 
 ---
 
